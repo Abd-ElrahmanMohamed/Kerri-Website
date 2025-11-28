@@ -1,33 +1,33 @@
-Kerri App 🚀
+<h1>Kerri App 🚀</h1>
 
-A modern and responsive personal portfolio landing page designed to showcase services, skills, and projects with smooth navigation and clean UI.
+A modern and responsive personal portfolio landing page designed to showcase services, skills, and projects with smooth navigation and a clean UI.
 
-🔗 Live Demo
+<h2>🔗 Live Demo</h2>
 
+**https://kerri-app-three.vercel.app**
 
+---
 
-📌 Features
+<h2>📌 Features</h2>
 
-Modern and clean design
+- Modern and clean design  
+- Smooth section-based navigation  
+- Fully responsive on all devices  
+- Services section  
+- Skills section  
+- Portfolio / Work showcase  
+- Contact section  
 
-Smooth section-based navigation
+---
 
-Fully responsive on all devices
+<h2>🛠️ Tech Stack</h2>
 
-Services section
+- <strong>HTML5</strong>  
+- <strong>CSS3</strong>  
+- <strong>JavaScript</strong>  
+- <strong>Bootstrap</strong> (or the framework used)
 
-Skills section
+---
 
-Portfolio / Work showcase
+<h2>📂 Project Structure</h2>
 
-Contact section
-
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap (or the framework used — let me know if you want to adjust this)
