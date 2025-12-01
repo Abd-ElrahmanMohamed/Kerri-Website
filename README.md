@@ -4,7 +4,7 @@ A modern and responsive personal portfolio landing page designed to showcase ser
 
 <h2>🔗 Live Demo</h2>
 
-**(abd-elrahmanmohamed.github.io/Kerri-Website/)**
+**https://abd-elrahmanmohamed.github.io/Kerri-Website/**
 
 ---
 
