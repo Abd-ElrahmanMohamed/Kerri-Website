@@ -25,5 +25,5 @@ A modern and responsive personal portfolio landing page designed to showcase ser
 - <strong>HTML5</strong>  
 - <strong>CSS3</strong>  
 - <strong>JavaScript</strong>  
-- <strong>Bootstrap</strong> (or the framework used)
+- <strong>Bootstrap</strong>
 
